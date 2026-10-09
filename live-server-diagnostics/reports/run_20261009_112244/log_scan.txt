@@ -1,0 +1,7 @@
+LOG SCAN
+========
+Log file: C:\Users\user\Documents\THEOWAF\Cloud Fundamentals\Fall_2026_Bootcamp\live-server-diagnostics\logs\server.log
+Warnings: 1
+Errors: 2
+Critical events: 1
+Log status: CRITICAL

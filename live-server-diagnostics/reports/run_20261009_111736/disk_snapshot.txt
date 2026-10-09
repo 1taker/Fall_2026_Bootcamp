@@ -1,0 +1,13 @@
+DISK SNAPSHOT
+=============
+Target path: /c/Users/user/Documents/THEOWAF/Cloud Fundamentals/Fall_2026_Bootcamp/live-server-diagnostics
+
+Filesystem usage:
+Filesystem      Size  Used Avail Use% Mounted on
+C:              213G  203G   11G  96% /c
+
+Directory size:
+41K	/c/Users/user/Documents/THEOWAF/Cloud Fundamentals/Fall_2026_Bootcamp/live-server-diagnostics
+
+File count:
+2
